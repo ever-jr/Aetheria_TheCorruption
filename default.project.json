@@ -4,7 +4,15 @@
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-        "$path": "src/ReplicatedStorage_"
+        "$path": "src/ReplicatedStorage_",
+
+        "RemoteEvents": {
+            "$className": "Folder",
+
+            "CreateNewCharacter": {
+                "$className": "RemoteEvent"
+            }
+        }
     },
 
     "ServerScriptService": {
@@ -57,7 +65,7 @@
         "Technology": "Voxel"
       }
     },
-    
+
     "SoundService": {
       "$properties": {
         "RespectFilteringEnabled": true
