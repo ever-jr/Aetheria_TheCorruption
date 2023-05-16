@@ -1,7 +1,8 @@
 local Players = game:GetService('Players')
 
 local Screens = {
-    CharacterAttributes = require(script.CharacterAttributes)
+    CharacterAttributes = require(script.CharacterAttributes),
+    NewCharacterScreen = require(script.NewCharacterScreen)
 }
 
 local changeColors = {
