@@ -61,7 +61,7 @@ function Character.New(name: string, starterClass: string, race: string)
 
 end
 
-function Character.Load(attributes: {})
+function Character.Load(playerData: {})
     
 end
 
