@@ -36,12 +36,11 @@ For example:
 - Race: Orc
 - Attributes:
     - Melee: 5 (+3)
-> (+3) it's an additional value to the melee atribute caused by the Orc's race.
     - Ranged: 4 (+0)
     - Magic: 2 (+0)
     - Luck: 1 (+0)
 
-*Note that only melee it's affected by this race.*
+*Note that only melee it's affected by this race giving the character +3 of melee damage.*
 
 <sub>this game was made with Rojo.</sub>
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
