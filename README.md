@@ -35,15 +35,11 @@ For example:
 - Name: Jonny
 - Race: Orc
 - Attributes:
-
-Melee: 5 (+3)
+    - Melee: 5 (+3)
 > (+3) it's an additional value to the melee atribute caused by the Orc's race.
-
-Ranged: 4 (+0)
-
-Magic: 2 (+0)
-
-Luck: 1 (+0)
+    - Ranged: 4 (+0)
+    - Magic: 2 (+0)
+    - Luck: 1 (+0)
 
 *Note that only melee it's affected by this race.*
 
