@@ -7,13 +7,13 @@ Aetheria it's a roblox game inspired by Skyrim: The Elder Scrolls. This game it'
 
 
 ## Background Story
-Long ago, Aetheria was inhabited by a powerful and enigmatic race known as the <span style="color:red">**Aethereans**</span>. These beings were gifted with extraordinary magical abilities, enabling them to commune with the elements and shape the world around them.
-
-However, the harmony and prosperity of Aetheria were not destined to last. As the ages passed, a dark and malevolent force seeped into the realm, corrupting its very essence. This vile influence affected even the gods themselves, twisting their divine nature and turning them into maleficent beings known as the Corrupted Gods.
-
-**The Corrupted Gods**, once protectors and guardians of Aetheria, now sought dominion and control over the land and its people. Their corrupted powers wreaked havoc on the delicate balance of nature, unleashing chaos and devastation. As the people of Aetheria struggled to survive under this oppressive reign, hope dwindled, and fear gripped their hearts.
-
-Amidst this turmoil, a prophecy emerged, whispered among the wise and the desperate. It spoke of an ancient artifact known as the Aetherial Keystone, said to hold the power to restore balance and banish the corruption that plagued the gods and the land. The prophecy foretold the arrival of a chosen hero, known as the Aetherial Champion, who would rise to confront the Corrupted Gods and fulfill their destiny.
+> Long ago, Aetheria was inhabited by a powerful and enigmatic race known as the <span style="color:red">**Aethereans**</span>. These beings were gifted with extraordinary magical abilities, > > enabling them to commune with the elements and shape the world around them.
+> 
+> However, the harmony and prosperity of Aetheria were not destined to last. As the ages passed, a dark and malevolent force seeped into the realm, corrupting its very essence. This vile influence affected even the gods themselves, twisting their divine nature and turning them into maleficent beings known as the Corrupted Gods.
+> 
+> **The Corrupted Gods**, once protectors and guardians of Aetheria, now sought dominion and control over the land and its people. Their corrupted powers wreaked havoc on the delicate balance of nature, unleashing chaos and devastation. As the people of Aetheria struggled to survive under this oppressive reign, hope dwindled, and fear gripped their hearts.
+> 
+> Amidst this turmoil, a prophecy emerged, whispered among the wise and the desperate. It spoke of an ancient artifact known as the Aetherial Keystone, said to hold the power to restore balance and banish the corruption that plagued the gods and the land. The prophecy foretold the arrival of a chosen hero, known as the Aetherial Champion, who would rise to confront the Corrupted Gods and fulfill their destiny.
 
 
 ## The Corrupted Gods have names?
