@@ -32,14 +32,13 @@ With the character race you can change your appereance and have some additionals
 
 For example:
 
-Name: Jonny
-
-Race: Orc
+- Name: Jonny
+- Race: Orc
 
 Attributes:
 
 Melee: 10 (+3)
-<sub>aaaaaaaaaa</sub>
+> (+3) it's an additional value to the melee atribute caused by the Orc's race.
 
 <sub>this game was made with Rojo.</sub>
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
