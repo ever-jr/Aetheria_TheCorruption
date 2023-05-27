@@ -7,9 +7,9 @@ Aetheria it's a roblox game inspired by Skyrim: The Elder Scrolls. This game it'
 
 
 ## Background Story
-Long ago, Aetheria was inhabited by a powerful and enigmatic race known as the **Aethereans**. These beings were gifted with extraordinary magical abilities, enabling them to commune with the elements and shape the world around them.
+Long ago, Aetheria was inhabited by a powerful and enigmatic race known as the <span style="color: red;">**Aethereans**</span>. These beings were gifted with extraordinary magical abilities, enabling them to commune with the elements and shape the world around them.
 
-![#f03c15]However, the harmony and prosperity of Aetheria were not destined to last. As the ages passed, a dark and malevolent force seeped into the realm, corrupting its very essence. This vile influence affected even the gods themselves, twisting their divine nature and turning them into maleficent beings known as the Corrupted Gods.
+However, the harmony and prosperity of Aetheria were not destined to last. As the ages passed, a dark and malevolent force seeped into the realm, corrupting its very essence. This vile influence affected even the gods themselves, twisting their divine nature and turning them into maleficent beings known as the Corrupted Gods.
 
 **The Corrupted Gods**, once protectors and guardians of Aetheria, now sought dominion and control over the land and its people. Their corrupted powers wreaked havoc on the delicate balance of nature, unleashing chaos and devastation. As the people of Aetheria struggled to survive under this oppressive reign, hope dwindled, and fear gripped their hearts.
 
