@@ -20,19 +20,19 @@ Amidst this turmoil, a prophecy emerged, whispered among the wise and the desper
 In the realm of Aetheria, the Corrupted Gods, once benevolent and revered, have been tainted by darkness and now rule with malevolence. Each god carries their own twisted name, resonating with their corrupted essence:
 
 ### **Malakar**, the Shadow Lord
-Once the god of light and guidance, Malakar has succumbed to darkness, embodying shadows and deceit. His presence casts an ominous shroud over the realm, corrupting all that it touches.
+> Once the god of light and guidance, Malakar has succumbed to darkness, embodying shadows and deceit. His presence casts an ominous shroud over the realm, corrupting all that it touches.
 
 ### **Vexaris**, the Soul Devourer
-Formerly the god of life and renewal, Vexaris now feasts on the souls of the innocent, draining them of vitality. His insatiable hunger for power fuels his twisted reign, leaving behind desolate lands and shattered spirits.
+> Formerly the god of life and renewal, Vexaris now feasts on the souls of the innocent, draining them of vitality. His insatiable hunger for power fuels his twisted reign, leaving behind desolate lands and shattered spirits.
 
 ### **Morgrath**, the Forsaken King
-Once a revered ruler of justice and honor, Morgrath now commands an army of undead, seeking to conquer Aetheria with an iron fist. His decrepit kingdom serves as a testament to his fall from grace.
+> Once a revered ruler of justice and honor, Morgrath now commands an army of undead, seeking to conquer Aetheria with an iron fist. His decrepit kingdom serves as a testament to his fall from grace.
 
 ### **Lyssandra**, the Mistress of Illusions
-Lyssandra was once the goddess of dreams and inspiration, but now she revels in illusions and delusions. She manipulates the minds of mortals, distorting reality and driving them to madness.
+> Lyssandra was once the goddess of dreams and inspiration, but now she revels in illusions and delusions. She manipulates the minds of mortals, distorting reality and driving them to madness.
 
 ### **Thulgrim**, the Lord of Decay
-Once the god of nature and fertility, Thulgrim has become a harbinger of decay and destruction. His touch withers the once vibrant flora and corrupts the creatures of the wild, turning them into twisted abominations.
+> Once the god of nature and fertility, Thulgrim has become a harbinger of decay and destruction. His touch withers the once vibrant flora and corrupts the creatures of the wild, turning them into twisted abominations.
 
 
 ## Character
