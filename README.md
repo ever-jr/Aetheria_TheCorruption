@@ -9,7 +9,7 @@ Aetheria it's a roblox game inspired by Skyrim: The Elder Scrolls. This game it'
 ## Character
 
 ### Attributes
-The character currently have these attributes
+The character currently have these attributes...
 
 *Melee*
 > Increases your damage with barehand and with melee weapons.
@@ -25,17 +25,21 @@ The character currently have these attributes
 
 
 ## Character Creation
-At first you can only choose a name, race and class for you character.
+At first you can only choose a name and race for you character.
 
 ### Race
 With the character race you can change your appereance and have some additionals attributes as well.
 
 For example:
-    Name: Jonny
-    Race: Orc
 
-    Attributes:
-        Melee: 10 (+3) <sub>aaaaaaaaaa</sub>
+Name: Jonny
+
+Race: Orc
+
+Attributes:
+
+Melee: 10 (+3)
+<sub>aaaaaaaaaa</sub>
 
 <sub>this game was made with Rojo.</sub>
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
