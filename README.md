@@ -9,10 +9,10 @@ Aetheria it's a roblox game inspired by Skyrim: The Elder Scrolls. This game it'
 
 ### Attributes
 The character currently have these attributes:
-    *Melee* <sub>Increases your damage with barehand and with melee weapons.</sub>
-    *Ranged* <sub>Increases your damge with long range weapons.</sub>
-    *Magic* <sub>Increases your damage with spells and other magic things.</sub>
-    *Luck* <sub>Increase your chances in finding items and gold, and increases your chance to cause critical damage, bleeding, stun and other effects.</sub>
+*Melee* > Increases your damage with barehand and with melee weapons.
+*Ranged* > Increases your damge with long range weapons.
+*Magic* > Increases your damage with spells and other magic things.
+*Luck* > Increase your chances in finding items and gold, and increases your chance to cause critical damage, bleeding, stun and other effects.
 
 ## Character Creation
 At first you can only choose a name, race and class for you character.
