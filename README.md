@@ -74,5 +74,8 @@ For example:
 
 *Note that only melee it's affected by this race giving the character +3 of melee damage.*
 
-<sub>this game was made with Rojo.</sub>
+<sub>
+this game was made with Rojo.
+
 For more help, check out [the Rojo documentation](https://rojo.space/docs).
+</sub>
