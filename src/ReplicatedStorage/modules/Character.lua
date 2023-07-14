@@ -3,7 +3,7 @@ local Character = {}
 local StarterPoints = 10
 
 Character.Attributes = {
-    Name = "CharacterName",
+    Name = "[CharacterName]",
     Race = "Human",
     Level = 1,
     Gold = 0,
@@ -48,7 +48,7 @@ Character.StarterClasses = {
 }
 
 
-function Character.New(name: string, starterClass: string, race: string)
+function Character.new(name: string, starterClass: string, race: string)
     local newCharacterAttributes = Character.Attributes
 
     newCharacterAttributes.Name = name
@@ -61,7 +61,7 @@ function Character.New(name: string, starterClass: string, race: string)
 
 end
 
-function Character.Load(playerData: {})
+function Character.load(playerData: {})
     
 end
 

@@ -1,6 +1,6 @@
 local PlayerData = {}
 
-function PlayerData.Load(PlayerId)
+function PlayerData.load(PlayerId)
     return nil
 end
 

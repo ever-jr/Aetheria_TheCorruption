@@ -2,8 +2,8 @@ local Players = game:GetService('Players')
 local ReplicatedStorage = game:GetService('ReplicatedStorage')
 
 
-local Modules = ReplicatedStorage:WaitForChild('Modules')
-local CharacterCreator = require(Modules:WaitForChild('CharacterCreator'))
+local Modules = ReplicatedStorage:WaitForChild('modules')
+local Character = require(Modules:WaitForChild('Character'))
 
 
 local RemoteEvents = ReplicatedStorage:WaitForChild('RemoteEvents')
@@ -16,12 +16,12 @@ local PlayerData = require(script:WaitForChild('PlayerData'))
 
 Players.PlayerAdded:Connect(function(player)
     local loadedDataSuccessfully, playerData = pcall(function()
-        return PlayerData.Load(player.UserId)
+        return PlayerData.load(player.UserId)
     end)
 
     if loadedDataSuccessfully and playerData then
         local attributes = {} -- << TURN PLAYER DATA INTO ATTRIBUTES
-        CharacterCreator.Load(attributes)
+        Character.load(attributes)
     else
         -- Redirect to CharacterCreation Screen
         CreateNewCharacter:FireClient(player)
