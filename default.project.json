@@ -4,7 +4,7 @@
     "$className": "DataModel",
 
     "ReplicatedStorage": {
-        "$path": "src/ReplicatedStorage",
+        "$path": "src/ReplicatedStorage_",
 
         "RemoteEvents": {
             "$className": "Folder",
@@ -16,7 +16,7 @@
     },
 
     "ServerScriptService": {
-        "$path": "src/ServerScriptService"
+        "$path": "src/ServerScriptService_"
     },
 
     "StarterPlayer": {
